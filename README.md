@@ -7,7 +7,7 @@ Handwritten character recognition (HCR) is a challenging problem for machine lea
 
 # Data <br>
 CASIA-HWDB Dataset, Chinese Academy of Sciences: https://nlpr.ia.ac.cn/databases/handwriting/Home.html <br>
-Benchmarks and papers: https://paperswithcode.com/dataset/casia-hwdb <br>
+Benchmarks and Papers: https://paperswithcode.com/dataset/casia-hwdb <br>
 
  # Repository Structure <br>
 _trainer1.py: Contains the code for model 1 training. <br>
@@ -19,3 +19,11 @@ _predictor3.py: Contains the code for model 3 prediction with multicrop. <br>
 _predictor_finalizer.py: Contains the code for performing prediction ensembling at test time. <br>
 README.md: This file, containing an overview of the repository. <br>
 LICENSE: Apache 2.0 License. <br>
+
+# About Authors <br>
+Boris Kriuk is the Co-Founder and CEO at Sparcus Technologies Limited, Machine Learning Lead at Antei Limited, LinkedIn Top Machine Learning Voice. 
+His research interests lie in the field of deep learning in computer vision. Boris Kriuk is the co-author of two conference papers. 
+Boris Kriuk is an undergraduate student at the Hong Kong University of Science and Technology, pursuing a degree in Computer Engineering. <br>
+
+Fedor Kriuk is the Co-Founder and CTO at Sparcus Technologies Limited. His research interests include statistical machine learning and deep learning in computer vision. Fedor Kriuk is the co-author of two conference papers. Fedor Kriuk is an undergraduate student at the Hong Kong University of Science and Technology, pursuing a degree in Electrical Engineering. <br>
+
